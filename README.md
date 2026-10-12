@@ -34,9 +34,9 @@ people actually want from it:
 
 > **I don't own any JBL Quantum headset.** These presets were derived from
 > QuantumENGINE's own config files, not tuned by ear, and I have no way to
-> test them myself. Someone else with the actual hardware did test them and
-> confirmed they sound right, but if something's off for your model, please
-> open an issue.
+> test them myself. [**@DefSteam**](https://github.com/DefSteam), who does
+> own the hardware, tested them and confirmed they sound right, but if
+> something's off for your model, please open an issue.
 
 **Jump to:** [What's in this repo](#whats-in-this-repo) ·
 [Headset EQ](#1-headset-eq-in-easy-effects) ·
